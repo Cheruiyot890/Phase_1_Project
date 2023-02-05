@@ -1,2 +1,6 @@
 # Phase_1_Project
-This is my Phase-1 project on Data Science
+
+INTRODUCTION
+A S TUDY OF TH E TYPE S O F FI LM S
+CUR RENTLY DOI N G BE S T A T THE
+BOX OFFI CE .
